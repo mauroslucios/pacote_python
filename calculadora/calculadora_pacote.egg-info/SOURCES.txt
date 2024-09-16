@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+calculadora/__init__.py
+calculadora/calculadora.py
+calculadora_pacote.egg-info/PKG-INFO
+calculadora_pacote.egg-info/SOURCES.txt
+calculadora_pacote.egg-info/dependency_links.txt
+calculadora_pacote.egg-info/top_level.txt
